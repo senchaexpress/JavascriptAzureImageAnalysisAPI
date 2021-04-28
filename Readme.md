@@ -1,0 +1,3 @@
+# MyCVApp application
+
+moderndesktopminimal template
